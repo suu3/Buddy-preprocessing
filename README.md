@@ -1,5 +1,6 @@
 # 시간의 흐름 순
-Colab Pro 결제 끝날 때까지 해본다
+https://github.com/School-is-hard/Chatbot_Buddy
+정확도 올리려고 전처리 했던 기록. 학기 마무리되면서 멈춤.
 
 ## 여태까지 정확도 정리
 |Original(5000,359)|Data 5000 Category 310|Data 5000 Category 191|Data 15000 Category 191|Data 19458 Category 150|
