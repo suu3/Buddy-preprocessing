@@ -1,6 +1,6 @@
 # 시간의 흐름 순
-https://github.com/School-is-hard/Chatbot_Buddy
-정확도 올리려고 전처리 했던 기록. 학기 마무리되면서 멈춤.
+https://github.com/School-is-hard/Chatbot_Buddy  
+정확도 올리려고 전처리 했던 기록. colab pro 결제가 필요하다는 점(달에 만삼천원정도 나온다..) & 학기 마무리되면서 멈춤.  
 
 ## 여태까지 정확도 정리
 |Original(5000,359)|Data 5000 Category 310|Data 5000 Category 191|Data 15000 Category 191|Data 19458 Category 150|
