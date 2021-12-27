@@ -1,5 +1,5 @@
 ## 시간의 흐름 순 (2021-2)
-https://github.com/School-is-hard/Chatbot_Buddy  
+📌 https://github.com/School-is-hard/Chatbot_Buddy  
 정확도 올리려고 전처리 했던 기록. colab pro 결제가 필요하다는 점(달에 만삼천원정도 나온다..) & 학기 마무리되면서 멈춤.  
 
 ## 여태까지 정확도 정리
@@ -27,3 +27,6 @@ https://github.com/School-is-hard/Chatbot_Buddy
 ## data 19458 Category 150 : 53.9%
 > batch size랑 에포크를 조정해봤는데 colab 런타임 연결 방지로 setInterval 사용해도 자꾸 로봇입니까가 뜨거나 연결이 끊어져서 애먹음
 > 일단 batch size랑 에포크 그대로 두고 정확도 3퍼 오른듯. 에포크를 늘려봐야지
+
+## 📌사용 언어 모델
+WellnessConversation-LanguageModel: https://github.com/nawnoes/WellnessConversation-LanguageModel
